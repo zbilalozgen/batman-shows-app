@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/batman-shows-app/static/css/main.c511f843.chunk.css",
+    "main.css": "/batman-shows-app/static/css/main.848ba635.chunk.css",
     "main.js": "/batman-shows-app/static/js/main.3327e0fd.chunk.js",
     "main.js.map": "/batman-shows-app/static/js/main.3327e0fd.chunk.js.map",
     "runtime-main.js": "/batman-shows-app/static/js/runtime-main.103daddd.js",
@@ -9,10 +9,10 @@
     "static/js/2.c30b7c14.chunk.js": "/batman-shows-app/static/js/2.c30b7c14.chunk.js",
     "static/js/2.c30b7c14.chunk.js.map": "/batman-shows-app/static/js/2.c30b7c14.chunk.js.map",
     "index.html": "/batman-shows-app/index.html",
-    "precache-manifest.b699622b835ae3774db83a4652be3d33.js": "/batman-shows-app/precache-manifest.b699622b835ae3774db83a4652be3d33.js",
+    "precache-manifest.c1e359a18935e5d09dd694cda37f8294.js": "/batman-shows-app/precache-manifest.c1e359a18935e5d09dd694cda37f8294.js",
     "service-worker.js": "/batman-shows-app/service-worker.js",
     "static/css/2.a7daffc7.chunk.css.map": "/batman-shows-app/static/css/2.a7daffc7.chunk.css.map",
-    "static/css/main.c511f843.chunk.css.map": "/batman-shows-app/static/css/main.c511f843.chunk.css.map",
+    "static/css/main.848ba635.chunk.css.map": "/batman-shows-app/static/css/main.848ba635.chunk.css.map",
     "static/js/2.c30b7c14.chunk.js.LICENSE": "/batman-shows-app/static/js/2.c30b7c14.chunk.js.LICENSE",
     "static/media/batarang.svg": "/batman-shows-app/static/media/batarang.ae7fc5d0.svg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.103daddd.js",
     "static/css/2.a7daffc7.chunk.css",
     "static/js/2.c30b7c14.chunk.js",
-    "static/css/main.c511f843.chunk.css",
+    "static/css/main.848ba635.chunk.css",
     "static/js/main.3327e0fd.chunk.js"
   ]
 }
