@@ -1,0 +1,96 @@
+@import "./grid.scss";
+@import "./colors.scss";
+@import "./movie-card.scss";
+@import "./detail-card.scss";
+body {
+  background: $color-body;
+  font-family: "Open Sans";
+
+  h1 {
+    color: $color-primary;
+    font-size: 1.3rem;
+    margin: 5px auto;
+  }
+  h3 {
+    font-size: 1rem;
+    padding: 3px 0;
+
+    margin: 5px auto;
+    width: 60%;
+    border-radius: 3px;
+  }
+  h4 {
+    font-size: 1rem;
+    color: $color-tertiary;
+    margin: 3px auto;
+  }
+}
+
+.logo {
+  text-decoration: none;
+  width: 6rem;
+  margin-left: 10px;
+}
+
+.container {
+  &__fluid {
+    margin: 0 10px;
+  }
+  &__row {
+    display: flex;
+    justify-content: flex-start;
+  }
+}
+
+.sidebar {
+  margin: 80px 20px;
+  box-sizing: border-box;
+  text-align: center;
+  padding: 1px 1px;
+  width: 60%;
+  display: inline-block;
+  @media screen and (min-width: 375px) and (max-width: 667px) {
+    height: 130px;
+    margin-top: 10px;
+    width: 325px;
+  }
+
+  &__title {
+    font-size: 1.3rem !important;
+    width: 230px;
+    color: $color-soft;
+    background: $color-primary;
+    font-weight: 900;
+
+    padding: 7px 5px;
+    border-radius: 5px;
+
+    @media screen and (min-width: 375px) and (max-width: 667px) {
+      width: 300px;
+      padding: 10px 10px;
+    }
+  }
+
+  &__item {
+    cursor: pointer;
+    padding: 4px 4px;
+    border: 1px solid $color-light;
+    border-radius: 5px;
+    background: $color-light;
+    &:hover {
+      box-shadow: 0 8px 16px 0 $color-shadow;
+    }
+    &__active {
+      background: $color-background;
+      color: $color-light;
+      border: 1px solid $color-background;
+    }
+  }
+}
+
+#null-review {
+  color: $color-soft;
+  background: $color-background;
+  padding: 3px 5px;
+  border-radius: 3px;
+}
