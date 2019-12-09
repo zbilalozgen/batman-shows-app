@@ -1,3 +1,12 @@
+## Batman Shows App
+
+![batarang](https://cool-toys.com.au/wp-content/uploads/2019/06/fac408308-justice-league-2017-batarang-1-1-scale-life-size-stunt-replica-01.1551747397-500x313.png)
+
+A simple app that list all Batman Tv Shows and their details!
+
+Used React, Redux, Router v5, Sass.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
