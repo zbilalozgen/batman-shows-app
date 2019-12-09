@@ -21,7 +21,7 @@ export const getData = () => {
         //To see loading screen
         setTimeout(() => {
           dispatch({ type: GET_DATA, movies: movies });
-        }, 20);
+        }, 2000);
       })
       .catch(err => {
         dispatch(fetchError(err.message));
@@ -45,7 +45,7 @@ export const getDetail = id => {
         //To see loading screen
         setTimeout(() => {
           dispatch({ type: GET_DETAIL, movieDetail: movieDetail });
-        }, 20);
+        }, 2000);
       })
       .catch(err => {
         dispatch(fetchError(err.message));
