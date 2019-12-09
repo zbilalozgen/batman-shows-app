@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/batman-shows-app/static/css/main.387be5d0.chunk.css",
-    "main.js": "/batman-shows-app/static/js/main.4d6682bb.chunk.js",
-    "main.js.map": "/batman-shows-app/static/js/main.4d6682bb.chunk.js.map",
+    "main.js": "/batman-shows-app/static/js/main.5c4e8e80.chunk.js",
+    "main.js.map": "/batman-shows-app/static/js/main.5c4e8e80.chunk.js.map",
     "runtime-main.js": "/batman-shows-app/static/js/runtime-main.103daddd.js",
     "runtime-main.js.map": "/batman-shows-app/static/js/runtime-main.103daddd.js.map",
     "static/css/2.a7daffc7.chunk.css": "/batman-shows-app/static/css/2.a7daffc7.chunk.css",
     "static/js/2.d461b276.chunk.js": "/batman-shows-app/static/js/2.d461b276.chunk.js",
     "static/js/2.d461b276.chunk.js.map": "/batman-shows-app/static/js/2.d461b276.chunk.js.map",
     "index.html": "/batman-shows-app/index.html",
-    "precache-manifest.091fe03298a09bb9516898ea53e41b2d.js": "/batman-shows-app/precache-manifest.091fe03298a09bb9516898ea53e41b2d.js",
+    "precache-manifest.abbab577ede30c4a1b53b1cf1077bf3e.js": "/batman-shows-app/precache-manifest.abbab577ede30c4a1b53b1cf1077bf3e.js",
     "service-worker.js": "/batman-shows-app/service-worker.js",
     "static/css/2.a7daffc7.chunk.css.map": "/batman-shows-app/static/css/2.a7daffc7.chunk.css.map",
     "static/css/main.387be5d0.chunk.css.map": "/batman-shows-app/static/css/main.387be5d0.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.a7daffc7.chunk.css",
     "static/js/2.d461b276.chunk.js",
     "static/css/main.387be5d0.chunk.css",
-    "static/js/main.4d6682bb.chunk.js"
+    "static/js/main.5c4e8e80.chunk.js"
   ]
 }
