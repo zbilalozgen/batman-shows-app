@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/batman-shows-app/static/css/main.a01b1c08.chunk.css",
-    "main.js": "/batman-shows-app/static/js/main.ee944ce1.chunk.js",
-    "main.js.map": "/batman-shows-app/static/js/main.ee944ce1.chunk.js.map",
+    "main.css": "/batman-shows-app/static/css/main.387be5d0.chunk.css",
+    "main.js": "/batman-shows-app/static/js/main.4d6682bb.chunk.js",
+    "main.js.map": "/batman-shows-app/static/js/main.4d6682bb.chunk.js.map",
     "runtime-main.js": "/batman-shows-app/static/js/runtime-main.103daddd.js",
     "runtime-main.js.map": "/batman-shows-app/static/js/runtime-main.103daddd.js.map",
     "static/css/2.a7daffc7.chunk.css": "/batman-shows-app/static/css/2.a7daffc7.chunk.css",
-    "static/js/2.c30b7c14.chunk.js": "/batman-shows-app/static/js/2.c30b7c14.chunk.js",
-    "static/js/2.c30b7c14.chunk.js.map": "/batman-shows-app/static/js/2.c30b7c14.chunk.js.map",
+    "static/js/2.d461b276.chunk.js": "/batman-shows-app/static/js/2.d461b276.chunk.js",
+    "static/js/2.d461b276.chunk.js.map": "/batman-shows-app/static/js/2.d461b276.chunk.js.map",
     "index.html": "/batman-shows-app/index.html",
-    "precache-manifest.35a07ce031c9d36de4e30c21074342c0.js": "/batman-shows-app/precache-manifest.35a07ce031c9d36de4e30c21074342c0.js",
+    "precache-manifest.091fe03298a09bb9516898ea53e41b2d.js": "/batman-shows-app/precache-manifest.091fe03298a09bb9516898ea53e41b2d.js",
     "service-worker.js": "/batman-shows-app/service-worker.js",
     "static/css/2.a7daffc7.chunk.css.map": "/batman-shows-app/static/css/2.a7daffc7.chunk.css.map",
-    "static/css/main.a01b1c08.chunk.css.map": "/batman-shows-app/static/css/main.a01b1c08.chunk.css.map",
-    "static/js/2.c30b7c14.chunk.js.LICENSE": "/batman-shows-app/static/js/2.c30b7c14.chunk.js.LICENSE",
+    "static/css/main.387be5d0.chunk.css.map": "/batman-shows-app/static/css/main.387be5d0.chunk.css.map",
+    "static/js/2.d461b276.chunk.js.LICENSE": "/batman-shows-app/static/js/2.d461b276.chunk.js.LICENSE",
     "static/media/batarang.svg": "/batman-shows-app/static/media/batarang.ae7fc5d0.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.103daddd.js",
     "static/css/2.a7daffc7.chunk.css",
-    "static/js/2.c30b7c14.chunk.js",
-    "static/css/main.a01b1c08.chunk.css",
-    "static/js/main.ee944ce1.chunk.js"
+    "static/js/2.d461b276.chunk.js",
+    "static/css/main.387be5d0.chunk.css",
+    "static/js/main.4d6682bb.chunk.js"
   ]
 }
